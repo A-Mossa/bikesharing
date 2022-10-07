@@ -41,11 +41,13 @@ From the following heatmap it is clear that subscribers form most of the userbas
 
 ## Summary
 
-- **What are the advantages or disadvantages of refactoring code?**
-    The main disadvantage that was observed during analysis was the time and customization of the original script, however, the whole process was worth it becuase the refactored code was more organized, had very adequate readability, and saved more time when analyzing for the end result, which were considered the main advantages.
+- This service proved valuabel specifically to male customers in NYC according the data collected. apparently it is not only used for leisure, because looking at the peak hours of usage we can tell that NewYorkers rely on CitiBike to commute around the city during rush hour .
 
-- **How do these pros and cons apply to refactoring code in the original VBA script ?**
-    While the code maintainability overall was better in the refactored code, and the code was easier to understand and read with less complex structure, It was time consuming to tailor the original code into refactored code while maintaining the whole structure of the original script and also during the process sometimes it was a bit confusing when trying to figure out how to tie the variables together in the refactored code.
+## Additional Visualtions:
 
-    
+- Given the time I believe my friend and I would have performed more visualizations on different seasons of the year to monitor dips or increases in usage.
+Keeping in mind that this analysis was carried out for a summer month of August with a lot of tourists and visitors.
+
+- It would be beneficial to the investors if they could figure out the maintaince cycle for each bike through the visualization of usage and the type of weather for a certain duration.
+
 
